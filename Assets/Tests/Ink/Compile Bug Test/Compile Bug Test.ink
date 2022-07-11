@@ -1,0 +1,4 @@
+{lah()}
+
+=== function lah
+->
