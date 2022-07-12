@@ -15,9 +15,11 @@ public class MenuCanvasController : MonoBehaviour
     }
     public void OnContinueBtnClicked()
     {
+        if(PlayerPrefs.HasKey("INGAME_DATA"))
+        {
         GameManager.Instance.ingameData._isNewGame = false;
-
         SceneManager.LoadScene(PlayerPrefs.GetString("ActiveScene"));
+        }
     }
 
     public void OnSettingButtonClicked()
@@ -27,6 +29,7 @@ public class MenuCanvasController : MonoBehaviour
     public void OnStartButtonClicked()
     {
         PlayerPrefs.DeleteKey("INGAME_DATA");
+        PlayerPrefs.SetString("ActiveScene", "PlayScene1");
         GameManager.Instance.ingameData.itemID = null;
         GameManager.Instance.ingameData._isLevelCompleted = true;
         GameManager.Instance.ingameData._isNewGame = true;

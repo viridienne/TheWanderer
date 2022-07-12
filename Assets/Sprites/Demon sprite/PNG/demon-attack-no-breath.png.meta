@@ -48,6 +48,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -304,6 +305,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      demon-attack-no-breath_4: 2775838402845532889
+      demon-attack-no-breath_7: 254697773495596123
+      demon-attack-no-breath_3: 4440047075060365722
+      demon-attack-no-breath_2: -3758352173003776340
+      demon-attack-no-breath_1: -3021583118361910209
+      demon-attack-no-breath_0: 1119696102202878521
+      demon-attack-no-breath_5: 158564056746921763
+      demon-attack-no-breath_6: -5957889397408292130
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

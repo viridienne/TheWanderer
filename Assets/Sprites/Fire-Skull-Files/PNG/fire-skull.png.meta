@@ -48,6 +48,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -292,6 +293,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      fire-skull_9: -2833898084586622726
+      fire-skull_2: -1364200414502597865
+      fire-skull_0: -7129419709214212761
+      fire-skull_6: -3408866496676386330
+      fire-skull_5: 4485134122274163535
+      fire-skull_10: -1108458465919169385
+      fire-skull_3: -585822925407298799
+      fire-skull_11: -7771260407943737555
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

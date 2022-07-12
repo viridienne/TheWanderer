@@ -57,6 +57,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -376,6 +377,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      demon-attack_7: -5612541687579396147
+      demon-attack_2: -7799362553759336465
+      demon-attack_4: -485573400809545533
+      demon-attack_13: 8765156206793520063
+      demon-attack_1: -4271147063164771560
+      demon-attack_6: 7574423355230237855
+      demon-attack_0: 4830101959132194629
+      demon-attack_3: 3464098051191881274
+      demon-attack_9: 6143293567109672340
+      demon-attack_5: 3534393129997317530
+      demon-attack_8: -929153436317632263
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

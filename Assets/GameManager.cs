@@ -73,4 +73,10 @@ public class GameManager : MonoBehaviour
         yield return new WaitForSeconds(2f);
         SceneManager.LoadSceneAsync(_activescene + 1);
     }
+    [ContextMenu("ResetGame")]
+    public void ResetGame()
+    {
+        PlayerPrefs.DeleteKey("INGAME_DATA");
+        PlayerPrefs.DeleteKey("ActiveScene");
+    }
 }

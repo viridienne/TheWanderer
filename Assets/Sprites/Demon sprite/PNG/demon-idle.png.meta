@@ -42,6 +42,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -256,6 +257,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      demon-idle_5: 5287318541332355128
+      demon-idle_2: 6706057316634897999
+      demon-idle_0: 9083683855015346827
+      demon-idle_3: -7633371085453104933
+      demon-idle_4: 7622220858091088904
+      demon-idle_1: 4526976818826055507
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
